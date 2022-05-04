@@ -1,5 +1,6 @@
 ﻿#NoEnv
 #SingleInstance force
+Menu, Tray, Icon, ..\data\ai-zoom.ico
 SetWorkingDir %A_ScriptDir%
 
 try
