@@ -19,3 +19,6 @@ Po spuštění programu se na hlavním panelu zobrazí ikona.
 Vlastnosti programu:
 1. Přiblížení pomocí kolečka myši.
 2. Stisknutím prostředního tlačítka myši přepněte na nástroj "Ruka".
+
+Download - [AI-Zoomer V.0.1](https://github.com/pedro404/AI-Zoomer/releases/download/V.1.0/AI-Zoomer.exe)
+
